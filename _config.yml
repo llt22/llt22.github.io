@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CrazyMilk's blog
-subtitle: 热爱生活的曾庆淼小帅锅
-description: 华南理工大学12级软件工程，在默默地等待着读研~
-author: CrazyMilk
-email: CatDringMilk@outlook.com
+title: 薛定谔的猫盒子
+subtitle: 我决定了猫的生死
+description: 兴趣广泛导致一无所长
+author: leeloto
+email: 262387013@qq.com
 language: zh-Hans
-keywords: CrazyMilk
+keywords: leeloto
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://github.com/CrazyMilk
+url: https://github.com/llt22/llt22.github.io
 root: /
 permalink: :year/:month/:day/:title/
 
