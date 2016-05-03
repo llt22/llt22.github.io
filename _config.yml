@@ -87,7 +87,7 @@ theme: yilia
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:CrazyMilk/CrazyMilk.github.io.git
+  repo: https://github.com/llt22/llt22.github.io.git
   branch: master
 
 
